@@ -7,7 +7,7 @@ Full Stack Web Developer
 *   🌍  I'm a Computer Science student
 *   ✉️  You can contact me at [xyz@gmail.com](mailto:xyz@gmail.com)
 *   🧠  I'm learning Mobile development and always looking to learn a new fun language. 
-*   🤝  I'm open to collaborating on projects for good!
+*   🤝  I'm open to collaborating on projects for social good!
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
