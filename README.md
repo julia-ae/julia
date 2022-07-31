@@ -30,7 +30,7 @@ Full Stack Web Developer
                           
 <a href="https://www.codepen.io/leilanivquesada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
                           <a href="https://www.github.com/julia-tran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/julia-tran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/nhung-tran-a14223119/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 <b>My GitHub Stats</b>
 
